@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parthmhatre
 - 👀 I’m interested in Coding, Sports and Online Gaming.
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on Java projects
+- 💞️ I’m looking to collaborate on Web App projects
 - 📫 You can reach me at mhatre.parth19@gmail.com
 
 <!---
